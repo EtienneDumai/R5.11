@@ -1,0 +1,8 @@
+-diapo 15 : tableau de contingence
+-Etape 1 : reconnaitre le tableau (univarié ou bivarié)
+-Etape 2 : maquetter le graphique
+-Etape 3 : Executer le graphique + le présenter proprement
+Avec tableau de données brutes
+-Etape 1 : Tab de données brutes(2 var (QT_c)+1 ident)
+-Etape 2 : Nuage de points
+-Etape 3 : Etiquette
